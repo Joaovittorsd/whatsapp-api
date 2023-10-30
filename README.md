@@ -18,7 +18,7 @@ Como o WhatsApp faz atualizações regularmente, é necessário sempre usar a ve
 
 ## Rodar em Segundo Plano
 1. Instale o pm2 dentro da pasta `npm install pm2 -g`
-2. Dentro da pasta do seu projeto inicie o serviço em pm2 `npm start app.js`
+2. Dentro da pasta do seu projeto inicie o serviço em pm2 `pm2 start app.js`
 
 ## Enviar Mensagem para um Grupo
 
